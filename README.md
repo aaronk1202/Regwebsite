@@ -1,0 +1,1 @@
+Enhanced The Regulars website. Upload all files to the root of your GitHub repo. Open https://aaronk1202.github.io/Regwebsite/?v=6000
